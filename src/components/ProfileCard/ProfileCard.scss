@@ -1,0 +1,62 @@
+.profileCardContainer {
+  background-color: white;
+  justify-self: center;
+  border-radius: 10px;
+  box-shadow: -1px 2px 8px 2px #a0a4a7;
+  margin: 0 0.5em 0 0.5em;
+  width: 500px;
+
+  .coverImg {
+    border-radius: 10px 10px 0 0;
+    object-fit: cover;
+    width: 100%;
+    height: 250px;
+  }
+  .profileInfoContainer {
+    margin: 0 3em 2em 3em;
+    .profileImg {
+      margin-top: -3em;
+      border-radius: 7px;
+    }
+
+    .followBtn {
+      float: right;
+      border: 2px solid #3008a6;
+      background-color: white;
+      color: #3008a6;
+      padding: 3px 25px;
+      margin: 0.5em;
+      font-size: 17px;
+      cursor: pointer;
+      border-radius: 12px;
+    }
+
+    .followingBtn {
+      @extend .followBtn;
+      background-color: #3008a6;
+      color: white;
+    }
+
+    .textContainer {
+      a {
+        text-decoration: none;
+        color: #2468e7;
+        &:not(:last-child)::after {
+          color: black;
+          content: ", ";
+        }
+        &:last-child::before {
+          color: black;
+          content: "and ";
+        }
+      }
+
+      h1 {
+        font-weight: 400;
+      }
+      .footerText {
+        font-size: 0.8em;
+      }
+    }
+  }
+}

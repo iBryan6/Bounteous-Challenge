@@ -1,70 +1,32 @@
-# Getting Started with Create React App
+# Profile Component Coding Test
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Please code the attached design. Feel free to use any tools you feel necessary. Please zip up all working files work and send it back to us. Let us know if you have questions or need clarification.
 
-## Available Scripts
+This test should not take you longer than 4 hours to complete.
 
-In the project directory, you can run:
+## Requirements
 
-### `npm start`
+- The component should look good on mobile, tablet, and desktop (responsive design).
+- Code produced should be semantic and component should be built with accessibility in mind.
+- Code the component as if it could be used multiple times on a single page (reusability, portability).
+- Write your CSS in a way that would allow the component to scale if text were to change. For example the text could change and the white area would need to grow or shrink.
+- On click of the 'follow' button, add a class to the component that changes something, your choice. If necessary, you can use jQuery, but we prefer vanilla JS.
+- Please include a screenshot of your component in browser and a readme.md file to explain your work.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## What We're Looking For
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- High quality front end code. Simple, well written, organized, and clean code.
+- Strong attention to visual detail. First thing we review is how the component looks in the browser. (Hints: background color around the component, rounded corner radius, etc.).
+- We're looking for a strong understanding of modern web standards.
+- Please avoid Bootstrap and other CSS frameworks. We want to see your CSS/SCSS/LESS skills.
+- Include build files (SASS/SCSS/LESS etc.).
 
-### `npm test`
+### Bonus Points
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- If this challenge seems simple and you complete quickly, feel free to add extras to _show off_ something you're excited about.
 
-### `npm run build`
+### Images
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+If you do not have Photoshop or are unable to extract the cover photo and profile image, feel free to use your own graphics. Alternatively can also easily grab images from [lorempixel.com](http://lorempixel.com/) or [placehold.it](http://placehold.it/).
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+_Last updated 01/17/2019 by Dean_

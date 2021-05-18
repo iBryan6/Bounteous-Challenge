@@ -9,10 +9,7 @@ So, this was a very basic test since I didn't really use a lot of ReactJS for th
 
 ### Result
 
-https://www.screencast.com/t/5B3aQtOeP
-
 ![image](https://user-images.githubusercontent.com/7282281/118728999-1adc7400-b803-11eb-9230-8a4a28eb1c76.png)
-
 
 ### Bonus Points
 
